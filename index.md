@@ -26,7 +26,7 @@ Here's some words about the book _One Hundred Years..._.
 #### [Search for it.](https://google.com)
 
 *boldaus ja linkkaus
-[You're **really, really** going to want to see this.](www.dailykitten.com)
+[You're **really, really** going to want to see this.](https://dailykitten.com)
 *BBC news ja header muutos
 ####The Latest News from [the BBC](https://bbc.com/news)
 
@@ -35,7 +35,7 @@ Do you want to [see something fun][a fun place]?
 
 Well, do I have [the website for you][another fun place]!
 
-[a fun place]: https://www.zombo.com
+[a fun place]: https://zombo.com
 [another fun place]: https://stumbleupon.com
 
 ## Tehtävä 4: Images
