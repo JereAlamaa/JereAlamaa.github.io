@@ -23,20 +23,20 @@ Here's some words about the book _One Hundred Years..._.
 ## Tehtävä 3:Links
 
 *muutos search for it tekstille ja linkkaus google.comille
-#### [Search for it.](www.google.com)
+#### [Search for it.](https://google.com)
 
 *boldaus ja linkkaus
 [You're **really, really** going to want to see this.](www.dailykitten.com)
 *BBC news ja header muutos
-####The Latest News from [the BBC](www.bbc.com/news)
+####The Latest News from [the BBC](https://bbc.com/news)
 
 *reference linking
 Do you want to [see something fun][a fun place]?
 
 Well, do I have [the website for you][another fun place]!
 
-[a fun place]: www.zombo.com
-[another fun place]: www.stumbleupon.com
+[a fun place]: https://www.zombo.com
+[another fun place]: https://stumbleupon.com
 
 ## Tehtävä 4: Images
 
